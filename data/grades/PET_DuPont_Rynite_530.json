@@ -1,0 +1,28 @@
+{
+  "grade_id": "PET_DuPont_Rynite_530",
+  "grade_name": "PET DuPont Rynite 530",
+  "polymer": "PET",
+  "supplier": "DuPont",
+  "sources": [],
+  "data_source": "llm_generated",
+  "processing": {
+    "melt_temp_min_C": 270,
+    "melt_temp_max_C": 290,
+    "mold_temp_min_C": 80,
+    "mold_temp_max_C": 120,
+    "drying_temp_C": 160,
+    "drying_time_h": 4,
+    "injection_pressure_MPa_max": 140,
+    "shrinkage_pct_min": 0.2,
+    "shrinkage_pct_max": 1.0
+  },
+  "mechanical": {
+    "density_g_cm3": 1.35
+  },
+  "thermal": {
+    "Tg_C": 70
+  },
+  "rheology": {},
+  "raw_text": "",
+  "warning": "⚠ 此牌号的参数由 AI 根据 PET 行业通用值估算，非该牌号实测数据，仅供参考！"
+}

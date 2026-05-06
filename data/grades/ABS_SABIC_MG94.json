@@ -1,0 +1,28 @@
+{
+  "grade_id": "ABS_SABIC_MG94",
+  "grade_name": "ABS SABIC MG94",
+  "polymer": "ABS",
+  "supplier": "SABIC",
+  "sources": [],
+  "data_source": "llm_generated",
+  "processing": {
+    "melt_temp_min_C": 200,
+    "melt_temp_max_C": 260,
+    "mold_temp_min_C": 40,
+    "mold_temp_max_C": 80,
+    "drying_temp_C": 80,
+    "drying_time_h": 4,
+    "injection_pressure_MPa_max": 150,
+    "shrinkage_pct_min": 0.4,
+    "shrinkage_pct_max": 0.7
+  },
+  "mechanical": {
+    "density_g_cm3": 1.04
+  },
+  "thermal": {
+    "Tg_C": 105
+  },
+  "rheology": {},
+  "raw_text": "",
+  "warning": "⚠ 此牌号的参数由 AI 根据 ABS 行业通用值估算，非该牌号实测数据，仅供参考！"
+}

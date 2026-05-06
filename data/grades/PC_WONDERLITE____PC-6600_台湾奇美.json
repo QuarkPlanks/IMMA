@@ -1,0 +1,25 @@
+{
+  "grade_id": "PC_WONDERLITE____PC-6600_台湾奇美",
+  "grade_name": "PC WONDERLITE®   PC-6600 台湾奇美",
+  "polymer": "PC",
+  "supplier": "Unknown",
+  "sources": [
+    "https://www.plasway.com/datasheet/detail/E3551B3F8888CAAE605EC37029FAB6DC"
+  ],
+  "data_source": "plasway_bulk",
+  "processing": {},
+  "mechanical": {},
+  "thermal": {},
+  "rheology": {},
+  "raw_text": "PC WONDERLITE®   PC-6600 台湾奇美物性表_性能参数与原料技术参数_TDS 下载_普拉司网（塑料网） 普拉司网 您好，请登录 免费注册 网站地图 塑胶原料 改性新材料 再生塑料 塑料助剂 色母粒 呆滞塑料 塑料机械 企业资讯 行业博文 行业数据 招聘/出租 公共服务 物性认证 品名: 0 种 制造商: 0 家 型号: 0 条 搜索 热门搜索： ABS-台湾奇美 ABS-宁波台化 PC-韩国锦湖 HIPS-镇江奇美 PBT-嘉兴帝人 PA66-河南神马尼龙 精确搜索 分享 下载PDF 加入比对 完善物性 您所在的位置： 首页 物性认证 PC PC WONDERLITE®   PC-6600 台湾奇美 465 PC WONDERLITE®   PC-6600 台湾奇美 465 参考价： 28,010 元/吨 查看供应(25) 产品描述 物性表 认证信息 替代型号(0) 产品描述 典型应用： 家用电器,电气领域,电子领域,汽车领域 特性： 阻燃 等级： 注塑级 物性表 机械性能 测试条件 测试方法 测试结果 测试单位 简支梁缺口冲击强度 - ASTM D256/ISO 179 700 kg·cm/cm(J/M)ft·lb/in 简支梁缺口冲击强度 - ASTM D256/ISO 179 150 kg·cm/cm(J/M)ft·lb/in 拉伸强度 - ASTM D638/ISO 527 600 kg/cm²(MPa)[Lb/in²] 弯曲模量 - ASTM D790/ISO 178 23000 kg/cm²(MPa)[Lb/in²] 电气性能 测试条件 测试方法 测试结果 测试单位 介电常数 - ASTM D150/IEC 60250 30 - 其他 测试条件 测试方法 测试结果 测试单位 特性 - - 阻燃V-0 - Color - - 不透明 半透 - 【免责声明】 普拉司网尽最大努力确保此数据的准确性，但是普拉司网对这些数据值不承担任何责任，并强烈建议在最终选择材料前，就数据值与材料供应商进行验证。 认证信息 上传认证 MSDS 替代型号推荐 暂无替代型号推荐 该产品暂时没有可推荐的替代型号 关于我们 会员服务 欢迎加盟 咨询投诉与建议 联系我们 Copyright © 2000-2026 All Rights Reserved 深圳市普拉司商务网络有限公司 普拉司网（塑料网） 版权所有 本站网络实名： 普拉司网 ICP备案： 粤B2-20050453号 增值电信业务经营许可证： 粤B2-20201126",
+  "dynamic_properties": {
+    "General": {
+      "简支梁缺口冲击强度 [kg·cm/cm(J/M)ft·lb/in]": "150",
+      "拉伸强度 [kg/cm²(MPa)[Lb/in²]]": "600",
+      "弯曲模量 [kg/cm²(MPa)[Lb/in²]]": "23000",
+      "介电常数": "30",
+      "特性": "阻燃V-0",
+      "Color": "不透明 半透"
+    }
+  }
+}

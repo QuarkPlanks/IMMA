@@ -1,0 +1,24 @@
+{
+  "grade_id": "ABS_CHIMEI_PA-747",
+  "grade_name": "ABS CHIMEI PA-747",
+  "polymer": "ABS",
+  "supplier": "Chimei",
+  "sources": [
+    "https://www.materialdatacenter.com/ms/en/Polylac/Chi+Mei+Corp/POLYLAC+PA-747/cdd083eb/544",
+    "https://www.lookpolymers.com/polymer_Chi-Mei-Polylac-PA-747-ABS.php",
+    "https://datasheets.globalspec.com/ds/1573/ChiMei/ADFA7DEC-1831-42B9-8CCC-39314E6048F8",
+    "https://sukeplastics.com/products/chimei-polylac-pa-747s/"
+  ],
+  "data_source": "ddg_regex",
+  "processing": {
+    "melt_temp_min_C": 232.0,
+    "melt_temp_max_C": 260.0,
+    "shrinkage_pct": 0.6
+  },
+  "mechanical": {
+    "density_g_cm3": 1.03
+  },
+  "thermal": {},
+  "rheology": {},
+  "raw_text": "\nInformationen on POLYLAC PA-747. ABS grade from CHIMEI Corporation\nMaterial Data Center | Datasheet POLYLAC PA-747 Material Data Center Home Imprint Privacy Statement About View Datasheet in other language E-mail to a friend Register now Material datasheets available free. Online registration at: www.materialdatacenter.com Material Data Center is a leading international information system for the plastics industry. Material Data Center offers a comprehensive plastics database, calculation tools, CAE interfaces, a literature database and an application database. For more information about Material Data Center visit www.materialdatacenter.com . This is the free Material Data Center Datasheet of POLYLAC PA-747 - ABS - CHIMEI Corporation Material Data Center offers the following functions for POLYLAC PA-747 : unit conversion, PDF datasheet print, comparison with other plastics Check here, which other Polylac datasheets, application examples or technical articles are available in Material Data Center Use the following short links to get directly to the properties of interest in this datasheet: Processing/Physical Characteristics - Mechanical properties - Thermal properties - Electrical properties - Other properties - Processing Recommendation Injection Molding Any use of this information falls under the rules of our disclaimer . Processing/Physical Characteristics Value Unit Test Standard ISO Data Melt volume-flow rate, MVR 12 cm³/10min ISO 1133 Temperature 220 °C - Load 10 kg - Molding shrinkage, parallel 0.6 % ISO 294-4, 2577 ASTM Data Melt Flow Index, MFI 1.1 g/10min ASTM D 1238 Temperature 200 °C - Load 5 kg - Mechanical properties Value Unit Test Standard ISO Data Yield stress 39 MPa ISO 527 Stress at break 30 MPa ISO 527 Flexural modulus, 23°C 1800 MPa ISO 178 Flexural strength 58 MPa ISO 178 Charpy notched impact strength, +23°C 33 kJ/m² ISO 179/1eA Charpy notched impact strength, -30°C 25 kJ/m² ISO 179/1eA Izod notched impact strength, +23°C 32 kJ/m² ISO 180/1A Izod notched impact strength 23 kJ/m² ISO 180/1A Temperature -30 °C - ASTM Data Tensile Strength at Yield 37.7 MPa ASTM D 638 Flexural Modulus 2137 MPa ASTM D 790 Flexural Strength 60.7 MPa ASTM D 790 Rockwell Hardness R 108 - ASTM D 785 Izod Impact notched, 1/8 in 400 J/m ASTM D 256 Izod Impact notched, 1/4 in 315 J/m ASTM D 256 Thermal properties Value Unit Test Standard ISO Data Temp. of deflection under load, 1.80 MPa 82 °C ISO 75-1/-2 Vicat softening temperature, A 104 °C ISO 306 Vicat softening temperature, B 96 °C ISO 306 Coeff. of linear therm. expansion, parallel 93 E-6/K ISO 11359-1/-2 Burning behav. at 1.5 mm nom. thickn. HB class IEC 60695-11-10 Thickness tested 1.5 mm - Yellow Card available yes - - ASTM Data UL 94 Flame rating HB - UL 94 Thickness tested 1.59 mm - DTUL @ 264 psi 85.6 °C ASTM D 648 Vicat Temperature 103 °C ASTM D 1525 Electrical properties Value Unit Test Standard ASTM Data Arc Resistance 30 s ASTM D 495 Other properties Value Unit Test Standard Density 1030 kg/m³ ISO 1183 Density 1030 kg/m³ ASTM D 792 Processing Recommend\nAcrylonitrile Butadiene Styrene (ABS), Molded · Chi Mei Polylac® PA-747 ABS · Material Notes: High impact · Users viewing this material also viewed the following: Nilit FRIANYL A63 S10 Nylon 6.6 for injection molding · Quantum Composites AMC™ 8590 BK 53% Carbon Fiber Reinforced Vinyl ...\nChi Mei Polylac® PA-747 ABS datasheet HOME ABOUT US PRODUCT Thermoplastic Thermoset Adhesive RenewableRecycled-Polymer RenewableRecycled-Film Tape RECENT UPDATE Company News Product News CONTACT US RFQ POLYMER SEARCH SEARCH HOME POLYMER SEARCH Thermoplastic ABS Polymer Acrylonitrile Butadiene Styrene (ABS), Molded Chi Mei Polylac® PA-747 ABS Chi Mei Polylac® PA-747 ABS Category Polymer , Thermoplastic , ABS Polymer , Acrylonitrile Butadiene Styrene (ABS), Molded Manufacturer Chi Mei Corporation (ChiMei) Trade Name Polylac® Port Shanghai port,China Trade Terms EXW, FOB, CFR, CIF Payment Terms L/C, T/T, PayPal Download PDF Chi Mei Polyl"
+}

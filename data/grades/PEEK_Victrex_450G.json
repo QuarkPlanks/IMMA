@@ -1,0 +1,28 @@
+{
+  "grade_id": "PEEK_Victrex_450G",
+  "grade_name": "PEEK Victrex 450G",
+  "polymer": "PEEK",
+  "supplier": "Unknown",
+  "sources": [],
+  "data_source": "llm_generated",
+  "processing": {
+    "melt_temp_min_C": 360,
+    "melt_temp_max_C": 400,
+    "mold_temp_min_C": 160,
+    "mold_temp_max_C": 200,
+    "drying_temp_C": 150,
+    "drying_time_h": 4,
+    "injection_pressure_MPa_max": 180,
+    "shrinkage_pct_min": 0.5,
+    "shrinkage_pct_max": 1.5
+  },
+  "mechanical": {
+    "density_g_cm3": 1.3
+  },
+  "thermal": {
+    "Tg_C": 143
+  },
+  "rheology": {},
+  "raw_text": "",
+  "warning": "⚠ 此牌号的参数由 AI 根据 PEEK 行业通用值估算，非该牌号实测数据，仅供参考！"
+}

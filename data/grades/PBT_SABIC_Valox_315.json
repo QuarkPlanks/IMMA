@@ -1,0 +1,28 @@
+{
+  "grade_id": "PBT_SABIC_Valox_315",
+  "grade_name": "PBT SABIC Valox 315",
+  "polymer": "PBT",
+  "supplier": "SABIC",
+  "sources": [],
+  "data_source": "llm_generated",
+  "processing": {
+    "melt_temp_min_C": 240,
+    "melt_temp_max_C": 270,
+    "mold_temp_min_C": 40,
+    "mold_temp_max_C": 80,
+    "drying_temp_C": 120,
+    "drying_time_h": 4,
+    "injection_pressure_MPa_max": 120,
+    "shrinkage_pct_min": 1.5,
+    "shrinkage_pct_max": 2.5
+  },
+  "mechanical": {
+    "density_g_cm3": 1.31
+  },
+  "thermal": {
+    "Tg_C": 60
+  },
+  "rheology": {},
+  "raw_text": "",
+  "warning": "⚠ 此牌号的参数由 AI 根据 PBT 行业通用值估算，非该牌号实测数据，仅供参考！"
+}

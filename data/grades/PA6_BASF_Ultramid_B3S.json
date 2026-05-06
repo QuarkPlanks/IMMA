@@ -1,0 +1,24 @@
+{
+  "grade_id": "PA6_BASF_Ultramid_B3S",
+  "grade_name": "PA6 BASF Ultramid B3S",
+  "polymer": "PA6",
+  "supplier": "BASF",
+  "sources": [
+    "https://www.lookpolymers.com/polymer_BASF-Ultramid-B3S-BK00464-PA6-Dry.php",
+    "https://www.lookpolymers.com/polymer_Ravago-Manufacturing-Americas-Hylon-N2000HL-Nylon-6-Cond.php"
+  ],
+  "data_source": "ddg_regex",
+  "processing": {
+    "melt_temp_min_C": 238.0,
+    "melt_temp_max_C": 266.0
+  },
+  "mechanical": {
+    "density_g_cm3": 1.13
+  },
+  "thermal": {
+    "Tm_C": 220.0,
+    "thermal_conductivity_W_mK": 0.33
+  },
+  "rheology": {},
+  "raw_text": "\nBASF Ultramid® B3S BK00464 PA6 (Dry) ... Ultramid B3S BK00464 is an easy flowing, pigmented black, finely crystalline injection molding PA6 grade.\nBASF Ultramid® B3S BK00464 PA6 (Dry) datasheet HOME ABOUT US PRODUCT Thermoplastic Thermoset Adhesive RenewableRecycled-Polymer RenewableRecycled-Film Tape RECENT UPDATE Company News Product News CONTACT US RFQ POLYMER SEARCH SEARCH HOME POLYMER SEARCH Thermoplastic Nylon Nylon 6 Nylon 6, Unreinforced BASF Ultramid® B3S BK00464 PA6 (Dry) BASF Ultramid® B3S BK00464 PA6 (Dry) Category Polymer , Thermoplastic , Nylon , Nylon 6 , Nylon 6, Unreinforced Manufacturer BASF Trade Name Ultramid® Port Shanghai port,China Trade Terms EXW, FOB, CFR, CIF Payment Terms L/C, T/T, PayPal Download PDF BASF Ultramid® B3S BK00464 PA6 (Dry).pdf Price EMAIL US sales@lookpolymers.com IN STOCK Documents SGS MSDS Factory Documents Material Notes: Ultramid B3S BK00464 is an easy flowing, pigmented black, finely crystalline injection molding PA6 grade.  It conforms to FDA requirements of 21 CFR 177.1500. Physical Properties Metric English Comments Density 1.13 g/cc 0.0408 lb/in³ ISO 1183 Water Absorption 9.0 - 10 % 9.0 - 10 % ISO 62 Moisture Absorption at Equilibrium 2.6 - 3.4 % 2.6 - 3.4 % 23°C/50% R.H.; ISO 62 Viscosity Measurement 145 145 Viscosity Number; ISO 307 Linear Mold Shrinkage 0.0055 cm/cm 0.0055 in/in Melt Flow 197.75 g/10 min @Load 5.00 kg, Temperature 275 °C 197.75 g/10 min @Load 11.0 lb, Temperature 527 °F ISO 1133 Mechanical Properties Metric English Comments Tensile Strength, Yield 90.0 MPa 13100 psi 50mm/min; ISO 527 Elongation at Yield 4.0 % 4.0 % 50mm/min; ISO 527 Modulus of Elasticity 3.40 GPa 493 ksi ISO 527 Flexural Modulus 3.00 GPa 435 ksi ISO 178 Izod Impact, Notched (ISO) 5.00 kJ/m² 2.38 ft-lb/in² ISO 180/A 5.00 kJ/m² @Temperature -30.0 °C 2.38 ft-lb/in² @Temperature -22.0 °F ISO 180/A Charpy Impact Unnotched 25.0 J/cm² 119 ft-lb/in² ISO 179/1eU 20.0 J/cm² @Temperature -30.0 °C 95.2 ft-lb/in² @Temperature -22.0 °F ISO 179/1eU Charpy Impact, Notched 0.400 J/cm² 1.90 ft-lb/in² ISO 179/1eA 0.300 J/cm² @Temperature -30.0 °C 1.43 ft-lb/in² @Temperature -22.0 °F ISO 179/1eA Thermal Properties Metric English Comments CTE, linear, Parallel to Flow 70.0 - 100 µm/m-°C @Temperature 23.0 - 80.0 °C 38.9 - 55.6 µin/in-°F @Temperature 73.4 - 176 °F ISO 11359-1/-2 Specific Heat Capacity 1.70 J/g-°C 0.406 BTU/lb-°F Thermal Conductivity 0.330 W/m-K 2.29 BTU-in/hr-ft²-°F DIN 52612 Melting Point 220 °C 428 °F DIN 53765 Maximum Service Temperature, Air 87.0 °C 189 °F for 50% loss of tensile strength after 20,000 hr 97.0 °C 207 °F for 50% loss of tensile strength after 5,000 hr 180 °C 356 °F Deflection Temperature at 0.46 MPa (66 psi) 180 °C 356 °F ISO 75 Deflection Temperature at 1.8 MPa (264 psi) 65.0 °C 149 °F ISO 75 Flammability, UL94 V-2 @Thickness >=1.50 mm V-2 @Thickness >=0.0591 in Electrical Properties Metric English Comments Volume Resistivity 1.00e+13 ohm-cm 1.00e+13 ohm-cm IEC 60093 Dielectric Constant 3.3 @Frequency 1.00e+6 Hz 3.3 @Frequency 1.00e+6 Hz IEC 60250 Dissipation Factor 0.030 @Frequency 1.00e+6 Hz 0.030 @Frequency 1.00e+6 Hz IEC 60250 Comparati\nHuntsman Rexell® L2101 Injection Molding LLDPE (discontinued **) ... BASF Ultramid® B3S BK00464 PA6 (Conditioned)\nRavago Manufacturing Americas Hylon® N2000HL Nylon 6 (Cond) datasheet HOME ABOUT US PRODUCT Thermoplastic Thermoset Adhesive RenewableRecycled-Polymer RenewableRecycled-Film Tape RECENT UPDATE Company News Product News CONTACT US RFQ POLYMER SEARCH SEARCH HOME POLYMER SEARCH Thermoplastic Nylon Nylon 6 Nylon 6, Heat Stabilized Ravago Manufacturing Americas Hylon® N2000HL Nylon 6 (Cond) Ravago Manufacturing Americas Hylon® N2000HL Nylon 6 (Cond) Category Polymer , Thermoplastic , Nylon , Nylon 6 , Nylon 6, Heat Stabilized Manufacturer Ravago Manufacturing Americas, LLC Trade Name Hylon® Port Shanghai port,China Trade Terms EXW, FOB, CFR, CIF Payment Terms L/C, T/T, PayPal Download PDF Ravago Manufacturing Americas Hylon® N2000HL"
+}

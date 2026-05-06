@@ -1,0 +1,28 @@
+{
+  "grade_id": "PC_ABS_SABIC_Cycoloy_C1000",
+  "grade_name": "PC/ABS SABIC Cycoloy C1000",
+  "polymer": "ABS",
+  "supplier": "SABIC",
+  "sources": [],
+  "data_source": "llm_generated",
+  "processing": {
+    "melt_temp_min_C": 230,
+    "melt_temp_max_C": 260,
+    "mold_temp_min_C": 50,
+    "mold_temp_max_C": 80,
+    "drying_temp_C": 90,
+    "drying_time_h": 4,
+    "injection_pressure_MPa_max": 150,
+    "shrinkage_pct_min": 0.4,
+    "shrinkage_pct_max": 0.7
+  },
+  "mechanical": {
+    "density_g_cm3": 1.12
+  },
+  "thermal": {
+    "Tg_C": 110
+  },
+  "rheology": {},
+  "raw_text": "",
+  "warning": "⚠ 此牌号的参数由 AI 根据 ABS 行业通用值估算，非该牌号实测数据，仅供参考！"
+}

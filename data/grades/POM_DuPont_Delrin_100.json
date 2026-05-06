@@ -1,0 +1,24 @@
+{
+  "grade_id": "POM_DuPont_Delrin_100",
+  "grade_name": "POM DuPont Delrin 100",
+  "polymer": "POM",
+  "supplier": "DuPont",
+  "sources": [
+    "https://www.lookpolymers.com/polymer_DuPont-Performance-Polymers-Delrin-300PE-NC010A-Acetal-Homopolymer.php",
+    "https://www.lookpolymers.com/polymer_DuPont-Performance-Polymers-Delrin-500TL-NC010-Acetal-POM-nbspUnverified-Data.php",
+    "https://www.lookpolymers.com/polymer_DuPont-Performance-Polymers-Delrin-FG400XRD-NC010-Acetal-nbspUnverified-Data.php",
+    "https://www.lookpolymers.com/polymer_DuPont-Performance-Polymers-Delrin-FG500TL-NC010-Acetal-Homopolymer-nbspUnverified-Data.php"
+  ],
+  "data_source": "ddg_regex",
+  "processing": {
+    "melt_temp_ref_C": 205.0
+  },
+  "mechanical": {
+    "density_g_cm3": 1.42
+  },
+  "thermal": {
+    "Tm_C": 168.0
+  },
+  "rheology": {},
+  "raw_text": "\nDelrin® 300PE NC010A is a medium-high viscosity acetal homopolymer, an enhanced version with extremely low VOC emissions.\nDuPont Performance Polymers Delrin® 300PE NC010A Acetal Homopolymer datasheet HOME ABOUT US PRODUCT Thermoplastic Thermoset Adhesive RenewableRecycled-Polymer RenewableRecycled-Film Tape RECENT UPDATE Company News Product News CONTACT US RFQ POLYMER SEARCH SEARCH HOME POLYMER SEARCH Thermoplastic Acetal (POM) DuPont Performance Polymers Delrin® 300PE NC010A Acetal Homopolymer DuPont Performance Polymers Delrin® 300PE NC010A Acetal Homopolymer Category Polymer , Thermoplastic , Acetal (POM) Manufacturer DuPont Performance Polymers Trade Name Delrin® Port Shanghai port,China Trade Terms EXW, FOB, CFR, CIF Payment Terms L/C, T/T, PayPal Download PDF DuPont Performance Polymers Delrin® 300PE NC010A Acetal Homopolymer.pdf Price EMAIL US sales@lookpolymers.com IN STOCK Documents SGS MSDS Factory Documents Material Notes: Delrin® 300PE NC010A is a medium-high viscosity acetal homopolymer, an enhanced version with extremely low VOC emissions. It has improved processing thermal stability, good mechanical properties, and toughness.Information provided by DuPont Physical Properties Metric English Comments Density 1.42 g/cc 0.0513 lb/in³ ISO 1183 Water Absorption 0.30 % @Temperature 23.0 °C 0.30 % @Temperature 73.4 °F Equilibrium 50%RH; ISO 62, Similar to 0.60 % @Temperature 23.0 °C 0.60 % @Temperature 73.4 °F Immersion 24h; ISO 62, Similar to 1.4 % @Temperature 23.0 °C 1.4 % @Temperature 73.4 °F Saturation, immersed; ISO 62, Similar to Linear Mold Shrinkage 0.019 cm/cm @Thickness 2.00 mm 0.019 in/in @Thickness 0.0787 in Normal; ISO 294-4 0.020 cm/cm @Thickness 2.00 mm 0.020 in/in @Thickness 0.0787 in Parallel; ISO 294-4 Melt Flow 7.0 g/10 min @Load 2.16 kg, Temperature 190 °C 7.0 g/10 min @Load 4.76 lb, Temperature 374 °F ISO 1133 Mechanical Properties Metric English Comments Tensile Strength, Yield 70.0 MPa @Temperature 23.0 °C 10200 psi @Temperature 73.4 °F ISO 527 Elongation at Break 35 % @Temperature 23.0 °C 35 % @Temperature 73.4 °F ISO 527 Elongation at Yield 18 % @Temperature 23.0 °C 18 % @Temperature 73.4 °F ISO 527 Tensile Modulus 3.00 GPa @Temperature 23.0 °C 435 ksi @Temperature 73.4 °F ISO 527 Flexural Modulus 2.90 GPa @Temperature 23.0 °C 421 ksi @Temperature 73.4 °F ISO 178 Charpy Impact, Notched 0.800 J/cm² @Temperature -30.0 °C 3.81 ft-lb/in² @Temperature -22.0 °F ISO 179/1eA 1.10 J/cm² @Temperature 23.0 °C 5.23 ft-lb/in² @Temperature 73.4 °F ISO 179/1eA Tensile Creep Modulus, 1 hour 2700 MPa @Temperature 23.0 °C 392000 psi @Temperature 73.4 °F ISO 899 Tensile Creep Modulus, 1000 hours 1500 MPa @Temperature 23.0 °C 218000 psi @Temperature 73.4 °F ISO 899 Thermal Properties Metric English Comments CTE, linear, Parallel to Flow 100 µm/m-°C @Temperature -40.0 - 23.0 °C 55.6 µin/in-°F @Temperature -40.0 - 73.4 °F ISO 11359-1/-2 110 µm/m-°C @Temperature 23.0 - 55.0 °C 61.1 µin/in-°F @Temperature 73.4 - 131 °F ISO 11359-1/-2 150 µm/m-°C @Temperature 55.0 - 100 °C 83.3 µin/in-°F @Temperature 131 - 212 °F ISO 11359-1/-2 CTE, linear, Transverse to Fl\nDuPont Performance Polymers Delrin® 500TL NC010 Acetal (POM) (Unverified Data**) ... Acetal Homopolymer with Low Wear and Low Friction Delrin 500TL ...\nDuPont Performance Polymers Delrin® 500TL NC010 Acetal (POM)\r\n      \r\n      \r\n       (Unverified Data**) datasheet HOME ABOUT US PRODUCT Thermoplastic Thermoset Adhesive RenewableRecycled-Polymer RenewableRecycled-Film Tape RECENT UPDATE Company News Product News CONTACT US RFQ POLYMER SEARCH SEARCH HOME POLYMER SEARCH Thermoplastic Acetal (POM) Acetal Homopolymer, Unreinforced DuPont Performance Polymers Delrin® 500TL NC010 Acetal (POM)\r\n      \r\n      \r\n      &nbsp;(Unverified Data**) DuPont Performance Polymers Delrin® 500TL NC010 Acetal (POM)\r\n      \r\n      \r\n      &nbsp;(Unverified Data**) Category Polymer , Thermoplastic , Acetal (POM) , Acetal Homopolymer, Unreinforced Manufacturer DuPont Performance Polymers"
+}

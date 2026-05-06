@@ -1,0 +1,42 @@
+{
+  "grade_id": "PA12_Grilamid____LV-3H_瑞士EMS",
+  "grade_name": "PA12 Grilamid®   LV-3H 瑞士EMS",
+  "polymer": "Unknown",
+  "supplier": "Unknown",
+  "sources": [
+    "https://www.plasway.com/datasheet/detail/472957620ECEA092853EA48B1C533F25"
+  ],
+  "data_source": "plasway_bulk",
+  "processing": {},
+  "mechanical": {},
+  "thermal": {},
+  "rheology": {},
+  "raw_text": "PA12 Grilamid®   LV-3H 瑞士EMS物性表_性能参数与原料技术参数_TDS 下载_普拉司网（塑料网） 普拉司网 您好，请登录 免费注册 网站地图 塑胶原料 改性新材料 再生塑料 塑料助剂 色母粒 呆滞塑料 塑料机械 企业资讯 行业博文 行业数据 招聘/出租 公共服务 物性认证 品名: 0 种 制造商: 0 家 型号: 0 条 搜索 热门搜索： ABS-台湾奇美 ABS-宁波台化 PC-韩国锦湖 HIPS-镇江奇美 PBT-嘉兴帝人 PA66-河南神马尼龙 精确搜索 分享 下载PDF 加入比对 完善物性 您所在的位置： 首页 物性认证 PA12 PA12 Grilamid®   LV-3H 瑞士EMS 290 PA12 Grilamid®   LV-3H 瑞士EMS 290 参考价： 86,480 元/吨 查看供应(35) 产品描述 物性表 认证信息 替代型号(0) 产品描述 典型应用： 汽车领域,外壳,电机,电气领域,电子领域,包装,机器,机械部件 特性： 耐候,抗化学性,耐磨,尺寸稳定性,耐低温冲击,气体阻隔性,玻纤增强 等级： 注塑级 物性表 物理性能 测试条件 测试方法 测试结果 测试单位 收缩率 long,纵向 ISO 294 0.10 % 收缩率 trans,横向,dry ISO 294 0.75 % 机械性能 测试条件 测试方法 测试结果 测试单位 拉伸模量 1mm/min,cond ISO 527 6000 Mpa 悬臂梁缺口冲击强度 Charpy,23℃,cond ISO 179/2-1eA 20 KJ/m 拉伸强度 5mm/min,cond，断裂 ISO 527 105 Mpa 硬度 cond ISO 2039-1 77 Mpa 悬臂梁缺口冲击强度 Charpy,-30℃,cond ISO 179/2-1eA 15 KJ/m 断裂伸长率 5mm/min,cond ISO 527 8 % 悬臂梁缺口冲击强度 Charpy,23℃,cond ISO 179/2-1eU 80 KJ/m 悬臂梁缺口冲击强度 Charpy,-30℃,cond ISO 179/2-1eU 80 KJ/m 热性能 测试条件 测试方法 测试结果 测试单位 热变形温度 1.80MPa,dry ISO 75 160 °C 熔融温度 DSC,dry ISO 11357 178 °C UL阻燃等级 0.8mm ISO 1210 HB - 最高使用温度 short term,dry ISO 2578 150 °C 线性热膨胀系数 23-55℃,dry ISO 11359 0.2 - 热变形温度 8.00MPa,dry ISO 75 160 °C 最高使用温度 long term,dry ISO 2578 90-120 °C 线性热膨胀系数 23-55℃,dry(横向) ISO 11359 1.5 - 电气性能 测试条件 测试方法 测试结果 测试单位 表面电阻率 cond IEC 60093 10 Ω 介电强度 dry,cond IEC 60243-1 35 KV/mm 耐电弧性 cond IEC 60112 600 - 体积电阻率 dry,cond IEC 60093 10 Ω.cm 基本性能 测试条件 测试方法 测试结果 测试单位 吸水率 23℃/50%rh ISO 62 0.6 % 吸水率 23℃ ISO 62 1.1 % 密度 dry ISO 1183 1.22 dry 【免责声明】 普拉司网尽最大努力确保此数据的准确性，但是普拉司网对这些数据值不承担任何责任，并强烈建议在最终选择材料前，就数据值与材料供应商进行验证。 认证信息 上传认证 暂无认证数据 上传认证 替代型号推荐 暂无替代型号推荐 该产品暂时没有可推荐的替代型号 关于我们 会员服务 欢迎加盟 咨询投诉与建议 联系我们 Copyright © 2000-2026 All Rights Reserved 深圳市普拉司商务网络有限公司 普拉司网（塑料网） 版权所有 本站网络实名： 普拉司网 ICP备案： 粤B2-20050453号 增值电信业务经营许可证： 粤B2-20201126",
+  "dynamic_properties": {
+    "General": {
+      "收缩率 (long,纵向) [%]": "0.10",
+      "收缩率 (trans,横向,dry) [%]": "0.75",
+      "拉伸模量 (1mm/min,cond) [Mpa]": "6000",
+      "悬臂梁缺口冲击强度 (Charpy,23℃,cond) [KJ/m]": "80",
+      "拉伸强度 (5mm/min,cond，断裂) [Mpa]": "105",
+      "硬度 (cond) [Mpa]": "77",
+      "悬臂梁缺口冲击强度 (Charpy,-30℃,cond) [KJ/m]": "80",
+      "断裂伸长率 (5mm/min,cond) [%]": "8",
+      "热变形温度 (1.80MPa,dry) [°C]": "160",
+      "熔融温度 (DSC,dry) [°C]": "178",
+      "UL阻燃等级 (0.8mm)": "HB",
+      "最高使用温度 (short term,dry) [°C]": "150",
+      "线性热膨胀系数 (23-55℃,dry)": "0.2",
+      "热变形温度 (8.00MPa,dry) [°C]": "160",
+      "最高使用温度 (long term,dry) [°C]": "90-120",
+      "线性热膨胀系数 (23-55℃,dry(横向))": "1.5",
+      "表面电阻率 (cond) [Ω]": "10",
+      "介电强度 (dry,cond) [KV/mm]": "35",
+      "耐电弧性 (cond)": "600",
+      "体积电阻率 (dry,cond) [Ω.cm]": "10",
+      "吸水率 (23℃/50%rh) [%]": "0.6",
+      "吸水率 (23℃) [%]": "1.1",
+      "密度 (dry) [dry]": "1.22"
+    }
+  }
+}

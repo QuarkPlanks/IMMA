@@ -1,0 +1,22 @@
+{
+  "grade_id": "POM_Delrin____100P_荷兰杜邦",
+  "grade_name": "POM Delrin®   100P 荷兰杜邦",
+  "polymer": "POM",
+  "supplier": "DuPont",
+  "sources": [
+    "https://www.plasway.com/datasheet/detail/2D059D8D6DEEB8C14F51E803BE1E3BC2"
+  ],
+  "data_source": "plasway_bulk",
+  "processing": {},
+  "mechanical": {},
+  "thermal": {},
+  "rheology": {},
+  "raw_text": "POM Delrin®   100P 荷兰杜邦物性表_性能参数与原料技术参数_TDS 下载_普拉司网（塑料网） 普拉司网 您好，请登录 免费注册 网站地图 塑胶原料 改性新材料 再生塑料 塑料助剂 色母粒 呆滞塑料 塑料机械 企业资讯 行业博文 行业数据 招聘/出租 公共服务 物性认证 品名: 0 种 制造商: 0 家 型号: 0 条 搜索 热门搜索： ABS-台湾奇美 ABS-宁波台化 PC-韩国锦湖 HIPS-镇江奇美 PBT-嘉兴帝人 PA66-河南神马尼龙 精确搜索 分享 下载PDF 加入比对 完善物性 您所在的位置： 首页 物性认证 POM POM Delrin®   100P 荷兰杜邦 206 POM Delrin®   100P 荷兰杜邦 206 参考价： 36,690 元/吨 查看供应(33) 产品描述 物性表 认证信息 替代型号(0) 产品描述 典型应用： 汽车领域,齿轮,凸轮 特性： 高韧性 等级： 注塑级 物性表 机械性能 测试条件 测试方法 测试结果 测试单位 简支梁缺口冲击强度 - ASTM D256/ISO 179 350 kg·cm/cm(J/M)ft·lb/in 悬臂梁缺口冲击强度 - ASTM D256/ISO 179 14 kg·cm/cm(J/M)ft·lb/in 弯曲模量 - ASTM D790/ISO 178 2900 kg/cm²(MPa)[Lb/in²] 【免责声明】 普拉司网尽最大努力确保此数据的准确性，但是普拉司网对这些数据值不承担任何责任，并强烈建议在最终选择材料前，就数据值与材料供应商进行验证。 认证信息 上传认证 UL 替代型号推荐 暂无替代型号推荐 该产品暂时没有可推荐的替代型号 关于我们 会员服务 欢迎加盟 咨询投诉与建议 联系我们 Copyright © 2000-2026 All Rights Reserved 深圳市普拉司商务网络有限公司 普拉司网（塑料网） 版权所有 本站网络实名： 普拉司网 ICP备案： 粤B2-20050453号 增值电信业务经营许可证： 粤B2-20201126",
+  "dynamic_properties": {
+    "General": {
+      "简支梁缺口冲击强度 [kg·cm/cm(J/M)ft·lb/in]": "350",
+      "悬臂梁缺口冲击强度 [kg·cm/cm(J/M)ft·lb/in]": "14",
+      "弯曲模量 [kg/cm²(MPa)[Lb/in²]]": "2900"
+    }
+  }
+}

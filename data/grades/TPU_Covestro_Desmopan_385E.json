@@ -1,0 +1,28 @@
+{
+  "grade_id": "TPU_Covestro_Desmopan_385E",
+  "grade_name": "TPU Covestro Desmopan 385E",
+  "polymer": "TPU",
+  "supplier": "Covestro",
+  "sources": [],
+  "data_source": "llm_generated",
+  "processing": {
+    "melt_temp_min_C": 190,
+    "melt_temp_max_C": 220,
+    "mold_temp_min_C": 20,
+    "mold_temp_max_C": 40,
+    "drying_temp_C": 100,
+    "drying_time_h": 3,
+    "injection_pressure_MPa_max": 120,
+    "shrinkage_pct_min": 0.5,
+    "shrinkage_pct_max": 1.5
+  },
+  "mechanical": {
+    "density_g_cm3": 1.2
+  },
+  "thermal": {
+    "Tg_C": -30
+  },
+  "rheology": {},
+  "raw_text": "",
+  "warning": "⚠ 此牌号的参数由 AI 根据 TPU 行业通用值估算，非该牌号实测数据，仅供参考！"
+}

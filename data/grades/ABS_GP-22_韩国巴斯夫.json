@@ -1,0 +1,24 @@
+{
+  "grade_id": "ABS_GP-22_韩国巴斯夫",
+  "grade_name": "ABS GP-22 韩国巴斯夫",
+  "polymer": "ABS",
+  "supplier": "Unknown",
+  "sources": [
+    "https://www.lookpolymers.com/polymer_Styrolution-Terluran-GP-22-ABS.php",
+    "https://moldminds.com/blog/abs-plastic-injection-molding-guide",
+    "https://www.albis.com/en/products/download/doc/en/SI/styrolution/TerluranGP-22.pdf",
+    "https://protoshopinc.com/wp-content/uploads/Ineos-Styrolution-Terluran-ABS-GP-22.pdf"
+  ],
+  "data_source": "ddg_regex",
+  "processing": {
+    "shrinkage_pct": 0.4
+  },
+  "mechanical": {
+    "density_g_cm3": 1.04
+  },
+  "thermal": {
+    "Tm_C": 19.0
+  },
+  "rheology": {},
+  "raw_text": "\nTerluran GP-22 is an easy flowing grade of ABS for injection molding with high resistance to impact and heat deflection.Information provided by STYROLUTION, which is a joint venture between BASF and..\nStyrolution TerluranÂ® GP-22 ABS datasheet HOME ABOUT US PRODUCT Thermoplastic Thermoset Adhesive RenewableRecycled-Polymer RenewableRecycled-Film Tape RECENT UPDATE Company News Product News CONTACT US RFQ POLYMER SEARCH SEARCH HOME POLYMER SEARCH Thermoplastic ABS Polymer Acrylonitrile Butadiene Styrene (ABS), Impact Grade, Molded Styrolution TerluranÂ® GP-22 ABS Styrolution TerluranÂ® GP-22 ABS Category Polymer , Thermoplastic , ABS Polymer , Acrylonitrile Butadiene Styrene (ABS), Impact Grade, Molded Manufacturer Styrolution Trade Name Terluran® Port Ningbo port,China Trade Terms EXW, FOB, CFR, CIF Payment Terms L/C, T/T, PayPal Download PDF Styrolution TerluranÂ® GP-22 ABS.pdf Price EMAIL US sales@lookpolymers.com IN STOCK Documents SGS MSDS Factory Documents Material Notes: Terluran GP-22 is an easy flowing grade of ABS for injection molding with high resistance to impact and heat deflection.Information provided by STYROLUTION, which is a joint venture between BASF and INEOS. Physical Properties Metric English Comments Density 1.04 g/cc 0.0376 lb/inÂ³ ISO 1183 Water Absorption 1.0 % 1.0 % ISO 62 Moisture Absorption at Equilibrium 0.22 % 0.22 % 23Â°C/50% R.H.; ISO 62 Linear Mold Shrinkage 0.0055 cm/cm 0.0055 in/in ASTM Data; MD Melt Flow 1.5 g/10 min @Load 5.00 kg, Temperature 200 Â°C 1.5 g/10 min @Load 11.0 lb, Temperature 392 Â°F ASTM Test 4.8 g/10 min @Load 3.80 kg, Temperature 230 Â°C 4.8 g/10 min @Load 8.38 lb, Temperature 446 Â°F ASTM Test 19 g/10 min @Load 10.0 kg, Temperature 220 Â°C 19 g/10 min @Load 22.0 lb, Temperature 428 Â°F ISO 1133 19 g/10 min @Load 10.0 kg, Temperature 220 Â°C 19 g/10 min @Load 22.0 lb, Temperature 428 Â°F ASTM Test Mechanical Properties Metric English Comments Hardness, Rockwell R 103 103 ASTM Test Tensile Strength, Yield 45.0 MPa 6530 psi 50mm/min; ISO 527 45.0 MPa 6530 psi 2 in/min; ASTM Test 19.0 MPa @Temperature 80.0 Â°C 2760 psi @Temperature 176 Â°F ISO Data 63.0 MPa @Temperature -40.0 Â°C 9140 psi @Temperature -40.0 Â°F ISO Data Elongation at Break 10 % 10 % 50mm/min, Nominal strain; ISO 527 Elongation at Yield 2.6 % 2.6 % 50mm/min; ISO 527 2.6 % 2.6 % 2 in/min; ASTM Test 2.4 % @Temperature 80.0 Â°C 2.4 % @Temperature 176 Â°F ISO Data 3.6 % @Temperature -40.0 Â°C 3.6 % @Temperature -40.0 Â°F ISO Data Tensile Modulus 2.30 GPa 334 ksi 1mm/min; ISO 527 2.30 GPa 334 ksi ASTM Test Flexural Strength 65.0 MPa 9430 psi ISO Data 65.0 MPa 9430 psi ASTM Test Flexural Modulus 2.30 GPa 334 ksi ASTM Test Izod Impact, Notched 0.600 J/cm @Temperature -30.0 Â°C 1.12 ft-lb/in @Temperature -22.0 Â°F ASTM Test 1.00 J/cm @Temperature -18.0 Â°C 1.87 ft-lb/in @Temperature -0.400 Â°F ASTM Test 3.00 J/cm @Thickness 3.17 mm 5.62 ft-lb/in @Thickness 0.125 in ASTM Test Izod Impact, Notched (ISO) 26.0 kJ/mÂ² 12.4 ft-lb/inÂ² ISO Test Charpy Impact Unnotched 18.0 J/cmÂ² 85.7 ft-lb/inÂ² ISO 179 10.0 J/cmÂ² @Temperature -30.0 Â°C 47.6 ft-lb/inÂ² @Temperature -22.0 Â°F ISO 179 Charpy Impact, Notched 2.20 J/cmÂ² 10.5 ft-lb/inÂ² ISO 179 \n3 weeks ago - Key physical benchmarks for ... and a tensile modulus around 320,000 psi. Heat-deflection temperature (HDT) at 264 psi sits between 180°F and 220°F depending on grade....\nABS Plastic Injection Molding: Processing and Design Guide | MoldMinds Services Free Tools China Sourcing Blog About Get a Free Quote Back to Blog Injection Molding ABS Plastic Injection Molding: Processing and Design Guide Brandon Henderson April 13, 2026 9 min read The Short Answer ABS plastic injection molding is one of the most forgiving processes in the thermoplastics toolkit, but &#8220;forgiving&#8221; does not mean error-proof. Run ABS at the wrong melt temperature or with moisture above 0.1%, and you will scrap parts. Get the conditions right and you can hold tolerances of ±0.003 in/in on a $14,0"
+}

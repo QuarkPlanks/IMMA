@@ -1,0 +1,35 @@
+{
+  "grade_id": "PPEK__30G_成都天顺保利",
+  "grade_name": "PPEK  30G 成都天顺保利",
+  "polymer": "PP",
+  "supplier": "Unknown",
+  "sources": [
+    "https://www.plasway.com/datasheet/detail/426F93FD9B2E4EEC150BCBA9B437290E"
+  ],
+  "data_source": "plasway_bulk",
+  "processing": {},
+  "mechanical": {},
+  "thermal": {},
+  "rheology": {},
+  "raw_text": "PPEK  30G 成都天顺保利物性表_性能参数与原料技术参数_TDS 下载_普拉司网（塑料网） 普拉司网 您好，请登录 免费注册 网站地图 塑胶原料 改性新材料 再生塑料 塑料助剂 色母粒 呆滞塑料 塑料机械 企业资讯 行业博文 行业数据 招聘/出租 公共服务 物性认证 品名: 0 种 制造商: 0 家 型号: 0 条 搜索 热门搜索： ABS-台湾奇美 ABS-宁波台化 PC-韩国锦湖 HIPS-镇江奇美 PBT-嘉兴帝人 PA66-河南神马尼龙 精确搜索 分享 下载PDF 原厂TDS 加入比对 完善物性 您所在的位置： 首页 物性认证 PPEK PPEK  30G 成都天顺保利 1,705 PPEK  30G 成都天顺保利 1,705 参考价： 325,000 元/吨 查看供应(1) 产品描述 物性表 认证信息 替代型号(0) 产品描述 等级： 标准 物性表 机械性能 测试条件 测试方法 测试结果 测试单位 拉伸强度 Break,23℃ ISO 527 105 MPa 拉伸模量 23℃ ISO 527 2.7 GPa 拉伸伸长率 Break,23℃ ISO 527 6 % 屈服强度 200℃ ISO 527 51 MPa 拉伸强度 Break,200℃ ISO 527 - MPa 拉伸模量 200℃ ISO 527 1.8 GPa 拉伸伸长率 Break,200℃ ISO 527 40 % 弯曲强度 Yield,23℃ ISO 178 145 MPa 弯曲模量 23℃ ISO 178 3.7 GPa 压缩强度 23℃ ISO 604 120 MPa 夏比冲击强度 Notched ISO 179/1eA 7 kJ/m² 夏比冲击强度 Unnotched ISO 179/1U 73 kJ/m² 伊佐德冲击强度 Notched ISO 180/A 7.5 kJ/m² 伊佐德冲击强度 Unnotched ISO 180/U 84 kJ/m² 模具收缩率 Along Flow ISO 294-4 0.9 % 模具收缩率 Across Flow ISO 294-4 0.9 % 熔体流动指数 360℃,10kg ISO 1133 30 g/10min 【免责声明】 普拉司网尽最大努力确保此数据的准确性，但是普拉司网对这些数据值不承担任何责任，并强烈建议在最终选择材料前，就数据值与材料供应商进行验证。 认证信息 上传认证 TDS 替代型号推荐 暂无替代型号推荐 该产品暂时没有可推荐的替代型号 关于我们 会员服务 欢迎加盟 咨询投诉与建议 联系我们 Copyright © 2000-2026 All Rights Reserved 深圳市普拉司商务网络有限公司 普拉司网（塑料网） 版权所有 本站网络实名： 普拉司网 ICP备案： 粤B2-20050453号 增值电信业务经营许可证： 粤B2-20201126",
+  "dynamic_properties": {
+    "General": {
+      "拉伸强度 (Break,23℃) [MPa]": "105",
+      "拉伸模量 (23℃) [GPa]": "2.7",
+      "拉伸伸长率 (Break,23℃) [%]": "6",
+      "屈服强度 (200℃) [MPa]": "51",
+      "拉伸模量 (200℃) [GPa]": "1.8",
+      "拉伸伸长率 (Break,200℃) [%]": "40",
+      "弯曲强度 (Yield,23℃) [MPa]": "145",
+      "弯曲模量 (23℃) [GPa]": "3.7",
+      "压缩强度 (23℃) [MPa]": "120",
+      "夏比冲击强度 (Notched) [kJ/m²]": "7",
+      "夏比冲击强度 (Unnotched) [kJ/m²]": "73",
+      "伊佐德冲击强度 (Notched) [kJ/m²]": "7.5",
+      "伊佐德冲击强度 (Unnotched) [kJ/m²]": "84",
+      "模具收缩率 (Along Flow) [%]": "0.9",
+      "模具收缩率 (Across Flow) [%]": "0.9",
+      "熔体流动指数 (360℃,10kg) [g/10min]": "30"
+    }
+  }
+}

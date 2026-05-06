@@ -1,0 +1,37 @@
+{
+  "grade_id": "PA12_Grilamid____LV-3H_美国EMS",
+  "grade_name": "PA12 Grilamid®   LV-3H 美国EMS",
+  "polymer": "Unknown",
+  "supplier": "Unknown",
+  "sources": [
+    "https://www.plasway.com/datasheet/detail/68E4E2E5957AAD3CEC0F2DC563FF325C"
+  ],
+  "data_source": "plasway_bulk",
+  "processing": {},
+  "mechanical": {},
+  "thermal": {},
+  "rheology": {},
+  "raw_text": "PA12 Grilamid®   LV-3H 美国EMS物性表_性能参数与原料技术参数_TDS 下载_普拉司网（塑料网） 普拉司网 您好，请登录 免费注册 网站地图 塑胶原料 改性新材料 再生塑料 塑料助剂 色母粒 呆滞塑料 塑料机械 企业资讯 行业博文 行业数据 招聘/出租 公共服务 物性认证 品名: 0 种 制造商: 0 家 型号: 0 条 搜索 热门搜索： ABS-台湾奇美 ABS-宁波台化 PC-韩国锦湖 HIPS-镇江奇美 PBT-嘉兴帝人 PA66-河南神马尼龙 精确搜索 分享 下载PDF 加入比对 完善物性 您所在的位置： 首页 物性认证 PA12 PA12 Grilamid®   LV-3H 美国EMS 278 PA12 Grilamid®   LV-3H 美国EMS 278 参考价： 76,970 元/吨 查看供应(18) 产品描述 物性表 认证信息 替代型号(0) 产品描述 典型应用： 汽车领域,外壳,电机,电气领域,电子领域,包装,机器,机械部件 特性： 耐候,抗化学性,耐磨,尺寸稳定性,耐低温冲击,气体阻隔性,玻纤增强 等级： 注塑级 物性表 物理性能 测试条件 测试方法 测试结果 测试单位 吸水率 平衡，23℃，50% RHEquilibrium, 73°F, 50% RH ISO 62 0.6 % 吸水率 饱和，23℃Saturation, 73°F ISO 62 1.1 % 收缩率 MDFlow ISO 294-4 0.1 % 收缩率 TDAcross Flow ISO 294-4 0.8 % 密度 - ISO 1183 1.22 g/cm³ 机械性能 测试条件 测试方法 测试结果 测试单位 拉伸模量 - ISO 527-2 6500 Mpa 热性能 测试条件 测试方法 测试结果 测试单位 线性热膨胀系数 TDTransverse ISO 11359-2 0.00015 1/℃ 线性热膨胀系数 MD流动 ISO 11359-2 0.000020 1/℃ 熔融温度 - ISO 11357-3 178 °C 热变形温度 8.0 MPa，未退火1160 psi, Unannealed ISO 75-2/C 90 °C 热变形温度 1.8 MPa，未退火264 psi, Unannealed ISO 75-2/A 160 °C 电气性能 测试条件 测试方法 测试结果 测试单位 相比漏电起痕指数Comparative Tracking Index - IEC 60112 -- V 介电强度 - IEC 60243-1 -- KV/mm 体积电阻率 - IEC 60093 -- ohms·cm 表面电阻率Surface Resistivity - IEC 60093 -- ohms 冲击性能 测试条件 测试方法 测试结果 测试单位 简支梁无缺口冲击强度 23℃23°C ISO 179/1eU 90 kJ/m² 简支梁无缺口冲击强度 -30℃-30°C ISO 179/1eU 90 kJ/m² 阻燃性能 测试条件 测试方法 测试结果 测试单位 UL阻燃等级 - UL 94 HB - 【免责声明】 普拉司网尽最大努力确保此数据的准确性，但是普拉司网对这些数据值不承担任何责任，并强烈建议在最终选择材料前，就数据值与材料供应商进行验证。 认证信息 上传认证 暂无认证数据 上传认证 替代型号推荐 暂无替代型号推荐 该产品暂时没有可推荐的替代型号 关于我们 会员服务 欢迎加盟 咨询投诉与建议 联系我们 Copyright © 2000-2026 All Rights Reserved 深圳市普拉司商务网络有限公司 普拉司网（塑料网） 版权所有 本站网络实名： 普拉司网 ICP备案： 粤B2-20050453号 增值电信业务经营许可证： 粤B2-20201126",
+  "dynamic_properties": {
+    "General": {
+      "吸水率 (平衡，23℃，50% RHEquilibrium, 73°F, 50% RH) [%]": "0.6",
+      "吸水率 (饱和，23℃Saturation, 73°F) [%]": "1.1",
+      "收缩率 (MDFlow) [%]": "0.1",
+      "收缩率 (TDAcross Flow) [%]": "0.8",
+      "密度 [g/cm³]": "1.22",
+      "拉伸模量 [Mpa]": "6500",
+      "线性热膨胀系数 (TDTransverse) [1/℃]": "0.00015",
+      "线性热膨胀系数 (MD流动) [1/℃]": "0.000020",
+      "熔融温度 [°C]": "178",
+      "热变形温度 (8.0 MPa，未退火1160 psi, Unannealed) [°C]": "90",
+      "热变形温度 (1.8 MPa，未退火264 psi, Unannealed) [°C]": "160",
+      "相比漏电起痕指数Comparative Tracking Index [V]": "--",
+      "介电强度 [KV/mm]": "--",
+      "体积电阻率 [ohms·cm]": "--",
+      "表面电阻率Surface Resistivity [ohms]": "--",
+      "简支梁无缺口冲击强度 (23℃23°C) [kJ/m²]": "90",
+      "简支梁无缺口冲击强度 (-30℃-30°C) [kJ/m²]": "90",
+      "UL阻燃等级": "HB"
+    }
+  }
+}

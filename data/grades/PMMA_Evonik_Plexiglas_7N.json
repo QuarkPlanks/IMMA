@@ -1,0 +1,28 @@
+{
+  "grade_id": "PMMA_Evonik_Plexiglas_7N",
+  "grade_name": "PMMA Evonik Plexiglas 7N",
+  "polymer": "PMMA",
+  "supplier": "Unknown",
+  "sources": [],
+  "data_source": "llm_generated",
+  "processing": {
+    "melt_temp_min_C": 210,
+    "melt_temp_max_C": 250,
+    "mold_temp_min_C": 50,
+    "mold_temp_max_C": 80,
+    "drying_temp_C": 80,
+    "drying_time_h": 4,
+    "injection_pressure_MPa_max": 150,
+    "shrinkage_pct_min": 0.3,
+    "shrinkage_pct_max": 0.8
+  },
+  "mechanical": {
+    "density_g_cm3": 1.19
+  },
+  "thermal": {
+    "Tg_C": 105
+  },
+  "rheology": {},
+  "raw_text": "",
+  "warning": "⚠ 此牌号的参数由 AI 根据 PMMA 行业通用值估算，非该牌号实测数据，仅供参考！"
+}
